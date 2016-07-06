@@ -1,0 +1,24 @@
+{
+  "name": "introtoexpress",
+  "version": "1.0.0",
+  "description": "introduction to express routing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylequamme/introToExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylequamme/introToExpress/issues"
+  },
+  "homepage": "https://github.com/kylequamme/introToExpress#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0",
+    "jquery": "^2.2.4"
+  }
+}
